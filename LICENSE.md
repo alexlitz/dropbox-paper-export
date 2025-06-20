@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2017 Jonas
+Copyright (c) 2017 Jonas (original work)
+Copyright (c) 2025 Alex Litzenberger (modifications, updates to use non-deprecated APIs and improvements)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
